@@ -1,0 +1,69 @@
+x:Name,en-US,ja-JP,zh-HK,zh-TW,identif
+AlwaysOnTop,Always on top,常に前面に表示,,,33
+AutoEnd,Auto-End Encounters,自動エンカウント終了,,,3
+AutoHide,Auto-hide window,自動でウィンドゥを隠す,,,34
+BackOp,List Opacity,背景透過度,,,32
+BanCheck,はい、インストールを続けます,はい、インストールを続けます,,,L10
+Cantclip,Could not save data to clipboard.,クリップボードにデータを保存できませんでした。,,,L11
+ChangeFont,Change Font,フォントを変更(試験中),,,36
+Changeinv,Change .csv update interval,.csv更新間隔を変更,,,29
+CPUDraw,Disable GPU Rendering,GPU描画を無効にする,,,44
+Damaged,Discard Encounter (No Log),Dmgd,,,UI02
+DiscardEncounter,,戦闘データ破棄,,,2
+DPSFormat,Change DPS Display Format,DPS表示形式を変更,,,27
+EndEncounter,End Encounter,エンカウント終了,,,1
+HideAIS,Hide A.I.S.,A.I.S.を隠す,,,20
+HideDB,Hide Dark Blast,DarkBlastを隠す,,,21
+HideLsw,Hide Laconium Sword,ラコニウムソードを隠す,,,23
+HideName,Anonymize Names,他人の匿名化,,,25
+HideNPC,Hide Enemy/NPCs,エネミー/NPCを隠す,,,9
+HidePlayer,Hide Players,プレイヤーを隠す,,,19
+HidePwp,Hide Photon Weapons,Photon weaponを隠す,,,24
+HideRide,Hide Rideroid,Ridroidを隠す,,,22
+Highlight,Higlight Self,自分をハイライト,,,42
+Installdll,dll plugin install now?,dllプラグインをインストールしますか？,,,L7
+,,,,,
+LowResources,Low Priority Mode,プロセス優先度を低にする,,,43
+Needdll,OverParse requires PSO2DamageDump.dll in order to recieve damage logs.,"OverParseにはdllプラグインが必要です。
+アプリケーションを終了します。",,,L8
+Newdll,This release of OverParse includes a new version of the parsing plugin. Would you like to update now?,"このOverParseのバージョンには、dllプラグインの新しいバージョンが含まれています。
+今すぐ更新しますか？",,,L6
+Noexe,"That doesn't appear to be a valid pso2_bin directory.
+If you installed the game using default settings, it will probably be in C:\\PHANTASYSTARONLINE2\pso2_bin\.
+Otherwise, find the location you installed to.","これは有効なpso2_binディレクトリではありません。
+pso2.exeが見つかりません。",,,L2
+Noinstall,"OverParse needs a valid PSO2 installation to function.
+The application will now close.","必要なインストールが設定されませんでした。
+アプリケーションを終了します。",,,L5
+NoLogs,No logs recorded in this session.,まだ記録されていません,,,8
+OpenLog,Open Logs Folder,ログフォルダーを開く,,,6
+ResizeWindow,Reset Window Size,デフォルトサイズに戻す,,,30
+RoundJA,Round JA/Crit Percents,JA / Criticalの小数点以下を削除,,,28
+Selectbin,Please select your pso2_bin directory. OverParse uses this to read your damage logs.,"pso2_binディレクトリを選択して下さい。
+OverParseはダメージログを読み込みます。",,,L3
+Selectbox,Please select your pso2_bin directory. OverParse uses this to read your damage logs.,"pso2_binフォルダを選択して下さい。
+大抵の場合はPSO2をインストールしたフォルダにあります。",,,L4
+SelectColumn,Select Column,列を選択...,,,40
+Separate,Damage Separation,分割オプション,,,10
+SeparateAIS,Separate A.I.S.,A.I.S.のダメージを分けて表示,,,14
+SeparateDB,Separate Dark Blast,DarkBlastのダメージを分けて表示,,,15
+SeparateHTF,Separate HTF,HTFを分けて表示,,,12
+SeparateLsw,Separate Laconium Sword,ラコニウムソードのダメージを分けて表示,,,18
+SeparatePwp,Separate Photon Weapons,Photon Weaponのダメージを分けて表示,,,17
+SeparateRide,Separate Rideroid,Ridroidのダメージを分けて表示,,,16
+SeparateZanverse,Separate Zanverse,ザンバースを分けて表示,,,11
+SessionLog,Session Logs,セッションログ,,,7
+ShowGraph,Show Damage Graph,ダメージグラフを表示,,,41
+Skipdll,Skip DLL Update,dllの更新をスキップ,,,46
+ThroughClick,Clickthrough Toggle,クリックを無効化,,,35
+ThroughOther,Hide All Other Players,自分以外全て無視,,,26
+TimeOut,Set Encounter Timeout,タイムアウト時間の設定,,,4
+ToClip,Copy Log to Clipboard,クリップボードへ自動コピー,,,5
+TScore,TScore,偏差値,,,UI01
+Updatecsv,Update skills.csv,skills.csvを更新,,,47
+UpdateTime,Show UI Updated Time(Debug),画面更新時のPC時刻を表示,,,45
+Variable,Variable Column,リストの幅を可変にする,,,37
+VideoTime,Remove non-combat time,非戦闘時間をDPSの計算から除外,,,
+VSeparate,Attack Mode Separation,個人別分割オプション,,,13
+WinOp,Window Opacity,ウィンドゥ透過度,,,31
+WriteTScore,Write the TScore to the log,偏差値をログに出力する,,,
