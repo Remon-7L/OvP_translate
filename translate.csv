@@ -8,7 +8,7 @@ Cantclip,Could not save data to clipboard.,クリップボードにデータを�
 ChangeFont,Change Font,フォントを変更(試験中),字體更改,字體更改,36
 Changeinv,Change .csv update interval,.csv更新間隔を変更,更改.csv更新間隔,更改.csv更新間隔,29
 CPUDraw,Disable GPU Rendering,GPU描画を無効にする,禁用GPU渲染,禁用GPU渲染,44
-Damaged,Discard Encounter (No Log),Dmgd,丟棄計算（無記錄）,丟棄計算（無記錄）,UI02
+Damaged,Discard Encounter (No Log),Dmgd,被傷害,被傷害,UI02
 DiscardEncounter,,戦闘データ破棄,破棄戰鬥紀錄,破棄戰鬥紀錄,2
 DPSFormat,Change DPS Display Format,DPS表示形式を変更,改變DPS顯示模式,改變DPS顯示模式,27
 EndEncounter,End Encounter,エンカウント終了,計算結束,計算結束,1
