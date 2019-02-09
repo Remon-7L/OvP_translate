@@ -1,69 +1,73 @@
 x:Name,en-US,ja-JP,zh-HK,zh-TW,identif
-AlwaysOnTop,Always on top,常に前面に表示,,,33
-AutoEnd,Auto-End Encounters,自動エンカウント終了,,,3
-AutoHide,Auto-hide window,自動でウィンドゥを隠す,,,34
-BackOp,List Opacity,背景透過度,,,32
-BanCheck,はい、インストールを続けます,はい、インストールを続けます,,,L10
-Cantclip,Could not save data to clipboard.,クリップボードにデータを保存できませんでした。,,,L11
-ChangeFont,Change Font,フォントを変更(試験中),,,36
-Changeinv,Change .csv update interval,.csv更新間隔を変更,,,29
-CPUDraw,Disable GPU Rendering,GPU描画を無効にする,,,44
-Damaged,Discard Encounter (No Log),Dmgd,,,UI02
-DiscardEncounter,,戦闘データ破棄,,,2
-DPSFormat,Change DPS Display Format,DPS表示形式を変更,,,27
-EndEncounter,End Encounter,エンカウント終了,,,1
-HideAIS,Hide A.I.S.,A.I.S.を隠す,,,20
-HideDB,Hide Dark Blast,DarkBlastを隠す,,,21
-HideLsw,Hide Laconium Sword,ラコニウムソードを隠す,,,23
-HideName,Anonymize Names,他人の匿名化,,,25
-HideNPC,Hide Enemy/NPCs,エネミー/NPCを隠す,,,9
-HidePlayer,Hide Players,プレイヤーを隠す,,,19
-HidePwp,Hide Photon Weapons,Photon weaponを隠す,,,24
-HideRide,Hide Rideroid,Ridroidを隠す,,,22
-Highlight,Higlight Self,自分をハイライト,,,42
-Installdll,dll plugin install now?,dllプラグインをインストールしますか？,,,L7
+AlwaysOnTop,Always on top,常に前面に表示,視窗置頂,視窗置頂,33
+AutoEnd,Auto-End Encounters,自動エンカウント終了,自動終止計算,自動終止計算,3
+AutoHide,Auto-hide window,自動でウィンドゥを隠す,自動隱藏視窗,自動隱藏視窗,34
+BackOp,List Opacity,背景透過度,背景透明度,背景透明度,32
+BanCheck,はい、インストールを続けます,はい、インストールを続けます,"同意,繼續安裝","同意,繼續安裝",L10
+Cantclip,Could not save data to clipboard.,クリップボードにデータを保存できませんでした。,無法儲存數據,無法儲存數據,L11
+ChangeFont,Change Font,フォントを変更(試験中),字體更改,字體更改,36
+Changeinv,Change .csv update interval,.csv更新間隔を変更,更改.csv更新間隔,更改.csv更新間隔,29
+CPUDraw,Disable GPU Rendering,GPU描画を無効にする,禁用GPU渲染,禁用GPU渲染,44
+Damaged,Discard Encounter (No Log),Dmgd,丟棄計算（無記錄）,丟棄計算（無記錄）,UI02
+DiscardEncounter,,戦闘データ破棄,破棄戰鬥紀錄,破棄戰鬥紀錄,2
+DPSFormat,Change DPS Display Format,DPS表示形式を変更,改變DPS顯示模式,改變DPS顯示模式,27
+EndEncounter,End Encounter,エンカウント終了,計算結束,計算結束,1
+HideAIS,Hide A.I.S.,A.I.S.を隠す,隱藏 A.I.S,隱藏 A.I.S,20
+HideDB,Hide Dark Blast,DarkBlastを隠す,隱藏 DarkBlast,隱藏 DarkBlast,21
+HideLsw,Hide Laconium Sword,ラコニウムソードを隠す,隱藏 盾劍,隱藏 盾劍,23
+HideName,Anonymize Names,他人の匿名化,他人匿名化,他人匿名化,25
+HideNPC,Hide Enemy/NPCs,エネミー/NPCを隠す,隱藏  敵人/NPC,隱藏  敵人/NPC,9
+HidePlayer,Hide Players,プレイヤーを隠す,隱藏 玩家,隱藏 玩家,19
+HidePwp,Hide Photon Weapons,Photon weaponを隠す,隱藏 光子武器,隱藏 光子武器,24
+HideRide,Hide Rideroid,Ridroidを隠す,隱藏 Rideroid,隱藏 Rideroid,22
+Highlight,Highlight Self,自分をハイライト,標示自己,標示自己,42
+Installdll,dll plugin install now?,dllプラグインをインストールしますか？,是否現在安裝dll plugin?,是否現在安裝dll plugin?,L7
 ,,,,,
-LowResources,Low Priority Mode,プロセス優先度を低にする,,,43
+LowResources,Low Priority Mode,プロセス優先度を低にする,低優先級模式,低優先級模式,43
 Needdll,OverParse requires PSO2DamageDump.dll in order to recieve damage logs.,"OverParseにはdllプラグインが必要です。
-アプリケーションを終了します。",,,L8
+アプリケーションを終了します。",OverParse 需要 PSO2DamageDump.dll 用來接收傷害數據,OverParse 需要 PSO2DamageDump.dll 用來接收傷害數據,L8
 Newdll,This release of OverParse includes a new version of the parsing plugin. Would you like to update now?,"このOverParseのバージョンには、dllプラグインの新しいバージョンが含まれています。
-今すぐ更新しますか？",,,L6
+今すぐ更新しますか？","此OverParse版本有新的更新,你想現在更新嗎?","此OverParse版本有新的更新,你想現在更新嗎?",L6
 Noexe,"That doesn't appear to be a valid pso2_bin directory.
 If you installed the game using default settings, it will probably be in C:\\PHANTASYSTARONLINE2\pso2_bin\.
 Otherwise, find the location you installed to.","これは有効なpso2_binディレクトリではありません。
-pso2.exeが見つかりません。",,,L2
+pso2.exeが見つかりません。","這似乎不是一個有效的pso2_bin目錄.
+如果您使用默認設置安裝遊戲,它可能位於C：\\ PHANTASYSTARONLINE2 \ pso2_bin \中.
+否則,找到您安裝的位置.","這似乎不是一個有效的pso2_bin目錄.
+如果您使用默認設置安裝遊戲,它可能位於C：\\ PHANTASYSTARONLINE2 \ pso2_bin \中.
+否則,找到您安裝的位置.",L2
 Noinstall,"OverParse needs a valid PSO2 installation to function.
 The application will now close.","必要なインストールが設定されませんでした。
-アプリケーションを終了します。",,,L5
-NoLogs,No logs recorded in this session.,まだ記録されていません,,,8
-OpenLog,Open Logs Folder,ログフォルダーを開く,,,6
-ResizeWindow,Reset Window Size,デフォルトサイズに戻す,,,30
-RoundJA,Round JA/Crit Percents,JA / Criticalの小数点以下を削除,,,28
+アプリケーションを終了します。","OverParse需要有效的PSO2安裝才能運行. 該應用程序現在將關閉.","OverParse需要有效的PSO2安裝才能運行. 該應用程序現在將關閉.",L5
+NoLogs,No logs recorded in this session.,まだ記録されていません,此會話中未記錄任何日誌.,此會話中未記錄任何日誌.,8
+OpenLog,Open Logs Folder,ログフォルダーを開く,開啟記錄檔案,開啟記錄檔案,6
+ResizeWindow,Reset Window Size,デフォルトサイズに戻す,重置視窗大小,重置視窗大小,30
+RoundJA,Round JA/Crit Percents,JA / Criticalの小数点以下を削除,JA/爆擊率捨入至整數,JA/爆擊率捨入至整數,28
 Selectbin,Please select your pso2_bin directory. OverParse uses this to read your damage logs.,"pso2_binディレクトリを選択して下さい。
-OverParseはダメージログを読み込みます。",,,L3
+OverParseはダメージログを読み込みます。","請選擇您的pso2_bin目錄. OverParse使用它來讀取您的傷害日誌.","請選擇您的pso2_bin目錄. OverParse使用它來讀取您的傷害日誌.",L3
 Selectbox,Please select your pso2_bin directory. OverParse uses this to read your damage logs.,"pso2_binフォルダを選択して下さい。
-大抵の場合はPSO2をインストールしたフォルダにあります。",,,L4
-SelectColumn,Select Column,列を選択...,,,40
-Separate,Damage Separation,分割オプション,,,10
-SeparateAIS,Separate A.I.S.,A.I.S.のダメージを分けて表示,,,14
-SeparateDB,Separate Dark Blast,DarkBlastのダメージを分けて表示,,,15
-SeparateHTF,Separate HTF,HTFを分けて表示,,,12
-SeparateLsw,Separate Laconium Sword,ラコニウムソードのダメージを分けて表示,,,18
-SeparatePwp,Separate Photon Weapons,Photon Weaponのダメージを分けて表示,,,17
-SeparateRide,Separate Rideroid,Ridroidのダメージを分けて表示,,,16
-SeparateZanverse,Separate Zanverse,ザンバースを分けて表示,,,11
-SessionLog,Session Logs,セッションログ,,,7
-ShowGraph,Show Damage Graph,ダメージグラフを表示,,,41
-Skipdll,Skip DLL Update,dllの更新をスキップ,,,46
-ThroughClick,Clickthrough Toggle,クリックを無効化,,,35
-ThroughOther,Hide All Other Players,自分以外全て無視,,,26
-TimeOut,Set Encounter Timeout,タイムアウト時間の設定,,,4
-ToClip,Copy Log to Clipboard,クリップボードへ自動コピー,,,5
-TScore,TScore,偏差値,,,UI01
-Updatecsv,Update skills.csv,skills.csvを更新,,,47
-UpdateTime,Show UI Updated Time(Debug),画面更新時のPC時刻を表示,,,45
-Variable,Variable Column,リストの幅を可変にする,,,37
-VideoTime,Remove non-combat time,非戦闘時間をDPSの計算から除外,,,
-VSeparate,Attack Mode Separation,個人別分割オプション,,,13
-WinOp,Window Opacity,ウィンドゥ透過度,,,31
-WriteTScore,Write the TScore to the log,偏差値をログに出力する,,,
+大抵の場合はPSO2をインストールしたフォルダにあります。","請選擇您的pso2_bin目錄. OverParse使用它來讀取您的傷害日誌.","請選擇您的pso2_bin目錄. OverParse使用它來讀取您的傷害日誌.",L4
+SelectColumn,Select Column,列を選択...,選擇數據欄,選擇數據欄,40
+Separate,Damage Separation,分割オプション,傷害分離,傷害分離,10
+SeparateAIS,Separate A.I.S.,A.I.S.のダメージを分けて表示,分離 A.I.S,分離 A.I.S,14
+SeparateDB,Separate Dark Blast,DarkBlastのダメージを分けて表示,分離 DarkBlast,分離 DarkBlast,15
+SeparateHTF,Separate HTF,HTFを分けて表示,分離 HTF,分離 HTF,12
+SeparateLsw,Separate Laconium Sword,ラコニウムソードのダメージを分けて表示,分離 盾劍,分離 盾劍,18
+SeparatePwp,Separate Photon Weapons,Photon Weaponのダメージを分けて表示,分離 光子武器,分離 光子武器,17
+SeparateRide,Separate Rideroid,Ridroidのダメージを分けて表示,分離 Ridroid,分離 Ridroid,16
+SeparateZanverse,Separate Zanverse,ザンバースを分けて表示,分離 風刃結界,分離 風刃結界,11
+SessionLog,Session Logs,セッションログ,會話日誌,會話日誌,7
+ShowGraph,Show Damage Graph,ダメージグラフを表示,顯示傷害圖,顯示傷害圖,41
+Skipdll,Skip DLL Update,dllの更新をスキップ,更新Skill Dll,更新Skill Dll,46
+ThroughClick,Clickthrough Toggle,クリックを無効化,點擊切換,點擊切換,35
+ThroughOther,Hide All Other Players,自分以外全て無視,隱藏其他玩家,隱藏其他玩家,26
+TimeOut,Set Encounter Timeout,タイムアウト時間の設定,設定計算時間超時,設定計算時間超時,4
+ToClip,Copy Log to Clipboard,クリップボードへ自動コピー,將日誌複製到剪貼板,將日誌複製到剪貼板,5
+TScore,TScore,偏差値,偏差値,偏差値,UI01
+Updatecsv,Update skills.csv,skills.csvを更新,更新skills.csv,更新skills.csv,47
+UpdateTime,Show UI Updated Time(Debug),画面更新時のPC時刻を表示,顯示UI更新時間（調試）,顯示UI更新時間（調試）,45
+Variable,Variable Column,リストの幅を可変にする,變量列,變量列,37
+VideoTime,Remove non-combat time,非戦闘時間をDPSの計算から除外,移除非戰鬥時間,移除非戰鬥時間,
+VSeparate,Attack Mode Separation,個人別分割オプション,分離 攻擊模式,分離 攻擊模式,13
+WinOp,Window Opacity,ウィンドゥ透過度,視窗透明度,視窗透明度,31
+WriteTScore,Write the TScore to the log,偏差値をログに出力する,將偏差値寫入日誌,將偏差値寫入日誌,
